@@ -1,0 +1,16 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Receitas da Vovó</title>   
+</head>
+<body>
+<h1>
+Receita de bolo da Vovó
+</h1>
+<h2>
+Venha aprender as melhores receitas de bolos.
+</h2>
+<p>
+Este é um parágrafo do site
+</p>  
+</body>

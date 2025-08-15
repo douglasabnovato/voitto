@@ -1,0 +1,90 @@
+*{
+    color: #8a3542;
+}
+
+body{
+    background-color: #f7e1d7;
+    padding: 30px;
+}
+
+h1, h2{
+    font-family: "Snell Roundhand", cursive;
+    text-align: center;
+}
+
+h1{
+    font-size: 48px;
+    letter-spacing: 10px;
+    word-spacing: -20px;
+    text-transform: capitalize;
+    text-decoration: underline wavy #edafb8;
+    text-shadow: 2px 2px 2px #edafb8;
+
+}
+h2{
+    margin-top: 20px;
+    
+    font-size: 36px;
+    text-transform: lowercase;
+    font-style: italic;
+    font-weight: lighter;
+    
+}
+
+p,div{
+    margin-top: 30px;
+
+    font: italic bold 24px/1.5 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+strong{
+    font-weight: bold;
+}
+
+img{
+    width: 450px;
+    height:300px;
+
+    border: 5px solid white;
+    border-radius: 8px;
+
+    display: block;
+    margin: 30px auto;
+}
+
+nav li{
+    width: 200px;
+
+    margin: 10px auto 0;
+}
+
+nav a{
+    width: 100%;
+
+    padding: 8px 16px;
+    border-radius: 8px;
+
+    display: inline-block;
+
+    font: normal bold 20px/1.2 'Trebuchet MS', sans-serif;
+    color: #edafb8;
+    background-color: white;
+}
+
+nav a:hover{
+    color: white;
+    background-color: #edafb8;
+}
+
+ul{
+    margin-top: 30px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+a{
+    text-decoration: none;
+}
