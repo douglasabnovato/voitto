@@ -1,0 +1,144 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+
+svg {
+    height: 32px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    padding: 32px 48px;
+    color: #97ADB6;
+}
+
+h1 {
+    display: inline;
+
+    font-weight: bold;
+    font-size: 48px;
+}
+
+h1, nav, ul, li {
+    display: inline-block;
+}
+
+nav {
+    margin-left: 50%;
+}
+
+nav li {
+    font-size: 32px;
+    margin-left: 32px;
+}
+
+main {
+    display: flex;
+    flex-direction: column; 
+    gap: 12.5rem;
+}
+
+.banner {
+    background-color: #97ADB6;
+    color: #FFF8F4;
+}
+
+.moon-banner {
+    margin-bottom: 200px;
+    padding: 64px 0 16px 32px;
+
+    background-image: url("./assets/banner-lua.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h2 {
+    margin-bottom: 48px;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 150%;
+}
+
+.moon-banner p {
+    margin-bottom: 16px;
+    
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 130%;
+
+    color: #245E74;
+}
+
+.about-us {
+    width: 700px;
+    margin: auto;
+
+    color: #245E74;
+}
+
+.about-us img {
+    width: inherit;
+}
+
+h3 {
+    margin: 30px 0;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.about-us p {
+margin-bottom: 200px;
+
+    text-align: justify;
+    font-size: 32px;
+    line-height: 190%;
+}
+
+.mission {
+    padding: 40px 80px;
+}
+
+.mission h3 {
+    margin-top: 0;
+}
+
+.mission p {
+    font-size: 28px;
+    line-height: 170%;
+}
+
+footer {
+    padding: 30px 0;
+    text-align: center;
+
+    background: rgb(36, 94, 116);
+    color: rgb(255, 248, 244);
+}
+
+footer span {
+    display: block;
+    margin-bottom: 50px;
+    font-size: 26px;
+}
+
+footer svg {
+    height: 15px;
+}
+
+footer p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+footer a {
+    font-weight: bold;
+    color: rgb(151, 173, 182);
+}
+
+
+

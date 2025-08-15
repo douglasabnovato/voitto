@@ -1,0 +1,33 @@
+*{
+    color: #8a3542;
+}
+
+h1, h2{
+    font-family: "Snell Roundhand", cursive;
+    text-align: center;
+}
+
+h1{
+    font-size: 48px;
+    letter-spacing: 10px;
+    word-spacing: -20px;
+    text-transform: capitalize;
+    text-decoration: underline wavy #edafb8;
+    text-shadow: 2px 2px 2px #edafb8;
+
+}
+h2{
+    font-size: 36px;
+    text-transform: lowercase;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+p{
+    font: italic bold 24px/1.5 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+}
+
+img{
+    width: 900px;
+}
